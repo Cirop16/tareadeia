@@ -28,4 +28,4 @@ objetivo: poder dilucidar la selección de una playa para vacacionar, ya que se 
 
 el proyecto se lleva a cabo dándole una pequeña reseña de lo que me gustaría como destino final para vacacionar y luego en los prompts de modelo de texto-texto y texto-imagen, que explaye destinos e imagenes del destino
 
-como herramienta en esta segunda entrega se trató de utilizar jupyter notebook y colab, ambos tratando de subir los repositorios en github tanto desde jupyter como colab pero hubo muchas limitaciones, por incompatibilidades de sistema y en colab por obsolescencia de comandos a la hora de correr el código. Se usó la técnica “one shot prompting” para hacer el trabajo; por su capacidad de maximizar la efectividad de la IA en una cantidad máximas de datos en un solo prompt
+como herramienta en esta segunda entrega se utilizo jupyter notebook. Se usó la técnica “one shot prompting” para hacer el trabajo; por su capacidad de maximizar la efectividad de la IA en una cantidad máximas de datos en un solo prompt
